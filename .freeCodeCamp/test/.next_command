@@ -143,3 +143,5 @@ qqqqqqqqqhqqqqqqq
 man wc
 man wc
 wc kitty_ipsum_1.txt -l
+man wc -w
+wc kitty_ipsum_1.txt -w
