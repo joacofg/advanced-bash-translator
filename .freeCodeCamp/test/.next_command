@@ -406,3 +406,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 grep --color 'cat[a-z]*' kitty_ipsum_2.txt
 grep --color 'meow[a-z]*' kitty_ipsum_2.txt
+echo -e "\nNumber oftimes meow or meowzer appears:" >> kitty_info.txt
+echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
